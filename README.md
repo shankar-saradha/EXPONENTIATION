@@ -18,10 +18,22 @@ Program to find the exponentiation of a number.
 Developed by: 
 RegisterNumber: 
 */
+#Program to to find the Exponentiation of a number.
+#Developed by: shankar s s
+#RegisterNumber: 21002057   
+def expo(a,b):
+    c=a**b
+    return c
+a=int(input())
+b=int(input())
+d=print("Exponentiation of a given number:",expo(a,b))
+
+
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+
+![exponentitaion ](https://user-images.githubusercontent.com/93978702/152678762-62de9ffc-3111-448d-8dff-fae4a7af45fd.png)
 
 
 ## Result:
